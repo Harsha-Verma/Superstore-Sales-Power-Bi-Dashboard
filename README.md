@@ -1,6 +1,3 @@
-# Superstore-Sales-Power-Bi-Dashboard
-End-to-end retail sales dashboard built using Power BI
-
 # 📊 Superstore Sales Analysis Dashboard – Power BI
 
 
