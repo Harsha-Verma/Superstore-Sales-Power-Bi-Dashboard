@@ -3,10 +3,12 @@ End-to-end retail sales dashboard built using Power BI
 
 📊 Superstore Sales Analysis Dashboard – Power BI
 
+
 🚀 Project Overview
 This project presents an end-to-end Retail Sales Performance Dashboard built using Power BI.
 The objective is to analyze sales, profitability, customer behavior, and regional performance using the Superstore dataset.
 The dashboard provides actionable insights into revenue trends, discount impact, product performance, and customer contribution.
+
 
 🎯 Business Objectives
 
@@ -16,6 +18,7 @@ Identify high and low performing product categories
 Evaluate impact of discounting on profitability
 Understand regional performance variations
 Identify top customers driving revenue
+
 
 📌 Key KPIs
 
@@ -27,6 +30,7 @@ Total Quantity
 Average Order Value (AOV)
 YoY Sales Growth
 YoY Profit Growth
+
 
 📈 Dashboard Structure
 
@@ -61,11 +65,13 @@ Top 10 Customers by Revenue
 
 📌 Insight: Revenue contribution is concentrated among key customers and specific regions.
 
+
 🛠 Tools & Technologies Used
 Power BI
 DAX (Data Analysis Expressions)
 Power Query (Data Cleaning & Transformation)
 Data Modeling & Relationship Management
+
 
 🔍 Key Business Insights
 
@@ -74,6 +80,7 @@ Furniture category shows revenue growth but margin pressure.
 A small percentage of customers contribute a significant share of total sales.
 Discount-heavy transactions reduce profitability in specific product segments.
 
+
 📊 Data Preparation Steps
 
 Removed duplicate records
@@ -81,6 +88,7 @@ Cleaned null values
 Created calculated measures (Profit Margin %, AOV, YoY Growth)
 Built date hierarchy for trend analysis
 Optimized model for performance
+
 
 🧠 Skills Demonstrated
 
@@ -92,9 +100,11 @@ Data storytelling
 Performance optimization
 Analytical thinking
 
+
 📷 Dashboard Preview
 
 (Add screenshots of Page 1, Page 2, and Page 3 here)
+
 
 💡 Future Enhancements
 
@@ -102,6 +112,7 @@ Forecasting & trend projection
 Customer segmentation using clustering
 Cohort analysis
 Drill-through analysis for deeper insights
+
 
 📬 Connect With Me
 
