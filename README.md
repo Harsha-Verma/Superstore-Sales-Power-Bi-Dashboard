@@ -29,6 +29,7 @@ YoY Sales Growth
 YoY Profit Growth
 
 📈 Dashboard Structure
+
 🔹 Page 1 – Executive Overview
 
 KPI Summary Cards
